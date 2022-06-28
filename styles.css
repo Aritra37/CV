@@ -1,0 +1,31 @@
+body {
+    background-color:wheat;
+
+}
+hr {
+
+    border-style:none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    width: 100px;
+}
+h1{
+    color:#66BFBF;
+}
+h3{
+    color:black;
+}
+.linky{
+    color: red;
+}
+/****ID Selectors ****/
+#Heading{
+    color:aqua;
+}
+img:hover{
+    background-color: goldenrod;
+}
+a:hover{
+    background-color:lightblue;
+}
